@@ -1,1 +1,1 @@
-これは next-feature の変更です
+next-feature に新しい変更を追加
